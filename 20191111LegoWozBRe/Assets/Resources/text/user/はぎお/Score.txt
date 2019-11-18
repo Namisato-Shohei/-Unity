@@ -1,0 +1,10 @@
+Present,75点
+Dog,50点
+Flamingo,100点
+Flower,58点
+Fish,100点
+Fortress,70点
+Ship,88点
+House,100点
+Castle,67点
+Plane,100点

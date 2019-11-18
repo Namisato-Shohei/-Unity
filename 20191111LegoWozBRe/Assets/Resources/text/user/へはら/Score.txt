@@ -1,0 +1,8 @@
+Present,67点
+Dog,90点
+Flamingo,65点
+Flamingo,100点
+Flamingo,64点
+Flower,100点
+Fish,52点
+Ship,94点
